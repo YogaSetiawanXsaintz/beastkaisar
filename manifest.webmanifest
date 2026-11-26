@@ -1,0 +1,35 @@
+{
+  "name": "Beast Kaisar: Legends 3D",
+  "short_name": "Beast Kaisar",
+  "id": "/",
+  "description": "Game kartu monster 3D arcade: kumpulkan 62 monster buas, susun deck 3 kartu, taklukkan 61 stage dan Kaisar Bayangan.",
+  "lang": "id",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#05070d",
+  "theme_color": "#05070d",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
